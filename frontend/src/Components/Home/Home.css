@@ -1,0 +1,58 @@
+Reset some default styles
+.home_page {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(222, 173, 197);
+}
+.main_header{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 10px; */
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.login_link a{
+    font-size: x-large;
+}
+
+.content{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.first_content{
+    font-size: 70px;
+}
+
+.second_content{
+    font-size: 40px;
+}
+
+.custom-image { 
+    margin-top: 7vh;
+    display: flex;
+    justify-content: space-around;
+   }
+
+.custom-image img{
+    height: 700px;
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .footer-content {
+    text-align: center;
+  }
+
+
